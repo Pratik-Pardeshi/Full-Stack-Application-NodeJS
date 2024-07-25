@@ -2,6 +2,19 @@
 technology uses : html, CSS, JavaScript and NodeJS
 
 
+File Path:
+fullstack-app/
+│
+├── public/
+│ ├── index.html
+│ ├── styles.css
+│ └── scripts.js
+│
+├── node_modules/
+├── package.json
+└── server.js
+
+
 ## Installation
 
 1. **Clone the repository** or create a new directory:
